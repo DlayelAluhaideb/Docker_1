@@ -1,4 +1,5 @@
-#Dockerized Python "Hello World" Application
+# Dockerized Python "Hello World" Application
+
 ## Purpose
 The purpose of this repository is to demonstrate how to create and use a Dockerfile to run a simple Python application that displays the phrase "Hello World!". This project also includes a docker-compose.yml file for easier setup.
 
